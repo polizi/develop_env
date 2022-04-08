@@ -1,3 +1,6 @@
 
-#安装YCM(mac)
-./install.sh --clang-completer
+# 安装YCM(mac)
+
+``cd YouCompleteMe``
+
+``./install.py --all``
