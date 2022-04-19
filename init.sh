@@ -9,6 +9,8 @@ sudo apt install npm -y
 sudo npm install -g neovim
 sudo gem install neovim
 
+#2.安装ccls https://github.com/MaskRay/ccls Macos : brew install ccls
+
 mkdir -p ~/.config
 cp -r nvim/nvim ~/.config
 
